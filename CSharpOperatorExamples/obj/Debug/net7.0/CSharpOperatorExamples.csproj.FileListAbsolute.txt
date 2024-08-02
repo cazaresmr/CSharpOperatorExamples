@@ -1,0 +1,15 @@
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/net7.0/CSharpOperatorExamples
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/net7.0/CSharpOperatorExamples.deps.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/net7.0/CSharpOperatorExamples.runtimeconfig.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/net7.0/CSharpOperatorExamples.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/net7.0/CSharpOperatorExamples.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.AssemblyInfoInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.AssemblyInfo.cs
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.csproj.CoreCompileInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.sourcelink.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/refint/CSharpOperatorExamples.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/CSharpOperatorExamples.genruntimeconfig.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/net7.0/ref/CSharpOperatorExamples.dll

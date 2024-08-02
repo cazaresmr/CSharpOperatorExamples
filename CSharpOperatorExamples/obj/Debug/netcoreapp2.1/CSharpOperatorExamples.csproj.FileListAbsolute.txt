@@ -1,0 +1,14 @@
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/netcoreapp2.1/CSharpOperatorExamples.deps.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/netcoreapp2.1/CSharpOperatorExamples.runtimeconfig.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/netcoreapp2.1/CSharpOperatorExamples.runtimeconfig.dev.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/netcoreapp2.1/CSharpOperatorExamples.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/bin/Debug/netcoreapp2.1/CSharpOperatorExamples.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.csproj.AssemblyReference.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.AssemblyInfoInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.AssemblyInfo.cs
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.csproj.CoreCompileInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.sourcelink.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/CSharpOperatorExamples/CSharpOperatorExamples/obj/Debug/netcoreapp2.1/CSharpOperatorExamples.genruntimeconfig.cache
